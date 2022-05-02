@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>true</is_extendable>
+        <label>Test data</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_555723_test_app_test_data</name>
+        <number_ref display_value="TES">73e511501bd3811019261f4a234bcbc4</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-02 10:01:03</sys_created_on>
+        <sys_id>e3e511501bd3811019261f4a234bcb7d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Test data</sys_name>
+        <sys_package display_value="Test App" source="x_555723_test_app">8f5499dc1b93811019261f4a234bcb45</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test App">8f5499dc1b93811019261f4a234bcb45</sys_scope>
+        <sys_update_name>sys_db_object_e3e511501bd3811019261f4a234bcb7d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-02 10:01:04</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
